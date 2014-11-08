@@ -1,0 +1,144 @@
+body{
+	font-family: 'Droid Sans', sans-serif;
+	background-image: url(../images/fon.jpg);
+	
+}
+.sphere{
+	width: auto;
+	height: auto;
+	padding: 2% 0;
+	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.Shell{
+	display:block;
+	max-width:970px;
+	margin:0 auto;
+	background:#fff;
+	border:1px solid #C0C0C0;
+	border-radius:8px; 
+
+div{
+	display:block;
+}
+}
+.header{
+	display:block;
+  	position:relative;
+  	padding: 7.25% 0;
+}
+
+.header1{
+	float:left;
+	margin:-2% 20px 0px 5%;
+}
+
+.logo{
+	position:relative;
+	display: inline-block;
+	float:left;
+}
+.MenuOne{
+	font-size:12px;
+	right: 5%;
+	position: absolute;
+	top: 50%;
+	height: 20px;
+	margin-top: -15px;
+
+
+}
+.li1{
+	display:inline-block;
+	list-style-type:none;
+	margin-left:20px; 
+
+}
+a{
+	text-decoration:none;
+	color: #7d7d7b;
+}
+.damntitle{
+	text-align:center;
+	border-bottom:1px solid #d4d4d4;
+	color: #696969;
+	padding:0px 0px 30px 0px;
+	margin:0 4% 4%;
+}
+p{
+	margin:0px;
+}
+.damntitle1{
+ 	font-size:40px;
+}
+.moon{
+    padding:0;
+	max-width:970px;
+	margin:0 auto;	
+}
+.crater{ 
+	width:95%;
+	position: relative;
+	padding:0;
+	float:left;
+	margin: 0 0 2% 3%; 
+}
+.object{
+	position: absolute;
+	padding-left:20px;
+}
+li{ 
+	margin:0;
+	padding:0;
+	position:relative;
+	display: inline-block;
+	float:left;
+}
+
+.r1{
+	color: #fff;
+	display: inline-block;
+	font-size:12px;
+	margin: 0 5px 5px 0;
+	background: #bababa;
+	border-radius: 5px;
+	padding: 0 5px 0 ;
+	line-height: 20px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.orange{
+	background: #da9753;
+}
+.r2 a:hover{
+	background:  #696969;
+}
+.elder{
+    width:100%;
+	margin-top:80px;
+	position: absolute;
+	height:680px;
+}
+.S1{  
+	
+	width:30%;
+	display:inline-block;
+	position: relative;
+	left: 0px;
+	margin-left:18px;  
+	top: 0px;
+	margin-bottom: 16px;
+
+}
+.nim{
+	font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	padding-top: 10px;
+	margin: 0 10px 10px 5px;
+	font-weight:normal;
+}
+.r3{
+	border: 3px solid #fff;
+}
+.r3:hover{
+  border: 3px solid #A9A9A9;
+}
